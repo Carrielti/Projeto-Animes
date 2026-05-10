@@ -20,6 +20,12 @@ O projeto foi desenvolvido de forma totalmente autodidata, antes do início da f
 
 ---
 
+## 🌐 Projeto Online
+
+https://carrielti.github.io/Projeto-Animes/
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 * HTML5
